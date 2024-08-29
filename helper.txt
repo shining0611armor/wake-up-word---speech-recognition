@@ -1,0 +1,10 @@
+we save our dataset at two above folder named: 
+
+
+we say alexa as the wake up word :)  on this folder 'positive alexa_by-our-voice'  
+ 
+
+we say other words  :)  on this folder 'negative_background_by_our_voice' 
+
+
+each files exactly contains 100 samples
